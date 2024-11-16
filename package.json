@@ -1,0 +1,21 @@
+{
+  "name": "gulp2022",
+  "version": "1.0.0",
+  "description": "some description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "key",
+    "work"
+  ],
+  "author": "Sasha",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^8.0.0",
+    "gulp": "^5.0.0",
+    "gulp-file-include": "^2.3.0"
+  },
+  "type": "module"
+}
